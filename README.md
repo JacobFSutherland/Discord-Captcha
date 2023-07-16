@@ -7,5 +7,11 @@ Install dependancies with `npm i` and if you do not have typescript, install it 
 ### Step 2
 Run `ts-node index.ts` or `node index.ts` if you did `tsc index.ts`
 
-## Step 3
+### Step 3
 View the resulting captcha in the root directory, and the captcha answer
+
+![Captcha](https://cdn.discordapp.com/attachments/839526698034397275/1130019401022844938/captcha.png)
+
+### Answer: NOUFNM
+
+
